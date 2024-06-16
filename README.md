@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ## => .sub
-  => still working on my cv and personal website, still trying to make it minimalize.
+  => still working on my cv and personal website, still trying to make it minimalist.
 
 [cv](CV.pdf)
 [web](https://coolcmyk.github.io)
