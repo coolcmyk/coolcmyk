@@ -15,19 +15,8 @@ Here are some ideas to get you started:
 
 ## => coolcmyk / kyomoto
 
- => an undergrad computer engineering student at university of indonesia.
-
  => likes doing personal projects on artificial intelligence stuff, and tinkering with electronic and ai stuffs in general.
 
-## => .main
-
-=> still working on aiko | amadeus project on a private repository.
-
-=> still participating in data science competition and a hackathon in my uni.
-
-## => .sub
-
-  => still working on my cv and personal website, still trying to make it minimalize.
 
 [cv](CV_new.pdf)
 [web](https://coolcmyk.github.io)
