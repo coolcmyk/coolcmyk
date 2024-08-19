@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## => coolcmyk / kyomoto
 
- => likes doing personal projects on artificial intelligence stuff, and tinkering with electronic and ai stuffs in general.
+ => likes tinkering with artifical intelligence and electronics in personal projects.
 
 
 [cv](CV_new.pdf)
