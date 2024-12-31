@@ -3,9 +3,7 @@
 -->
 
 ### moretti
--> engineering student,
--> hackathons,
--> freelance.
+-> engineering student
 
 
 [cv](CV_new.pdf)
