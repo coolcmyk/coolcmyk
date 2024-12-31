@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## => coolcmyk / kyomoto
-
- => likes tinkering with artifical intelligence and electronics in personal projects.
-
+### moretti
+- active on devpost
 
 [cv](CV_new.pdf)
 [web](https://coolcmyk.github.io)
