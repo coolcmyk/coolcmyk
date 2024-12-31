@@ -3,11 +3,12 @@
 -->
 
 ### moretti
--> engineering student
+-> comp. engineering
+
 
 
 [cv](CV_new.pdf)
 [web](https://coolcmyk.github.io)
 [devpost](https://devpost.com/coolcmyk?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-[pph](pph.me/kyo)
-[orgz | tarotClub](https://github.com/t4rotClub)
+[pph](https://pph.me/kyo)
+[orgz](https://github.com/t4rotClub)
