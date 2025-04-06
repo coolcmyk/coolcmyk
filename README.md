@@ -27,6 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="90" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="90" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="90" height="50">
-<img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128-blk.png" alt="rust" width="5%" height="5%">
+<img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128-blk.png" alt="rust" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="50">
 
 </div>
