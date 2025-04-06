@@ -9,7 +9,7 @@
 <pre>
     💻 Computer Engineering @ University Of Indonesia • Machine Learning Engineer • AI Hobbyist
     🤖 Robotics • LLMs • Vision Models
-    📊 Data Science • C++, Python, Rust Dev • ROS2 ftw • Linux Enjoyer
+    📊 RAG • MCP • C++, Python, Rust Dev • ROS2 ftw • Linux Enjoyer
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br><br>
@@ -26,8 +26,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="90" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="90" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="90" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="90" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="90" height="50">
 <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128-blk.png" alt="rust" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="50">
-
+<!-- <p align="center">
+  <a href="https://github.com/coolcmyk"><img src="https://github-readme-stats.vercel.app/api?username=coolcmyk&hide_border=true&show_icons=true" alt="coolcmyk's github stats"></a>
+</p>
+ -->
 </div>
