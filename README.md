@@ -10,7 +10,6 @@
     💻 Computer Engineering @ University Of Indonesia • Machine Learning Engineer • AI Hobbyist
     🤖 Robotics • LLMs • Vision Models
     📊 RAG • MCP • C++, Python, Rust Dev • ROS2 ftw • Linux Enjoyer
-    🎮 Music • Games • Anime • Code • Art
 </pre>
 <br><br>
 <img src="https://media1.tenor.com/m/KVQ29uyAfHkAAAAC/the-fool-klein-moretti.gif" height="25%" />
