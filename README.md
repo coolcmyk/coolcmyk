@@ -7,14 +7,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=praise+the+fool+%F0%9F%8C%99%E2%99%A3%EF%B8%8F%F0%9F%83%8F" width="70%" />
 <br><br>
 <pre>
-    💻 Computer Engineering @ University Of Indonesia • Machine Learning Engineer • AI Hobbyist
+    💻 Computer Engineering @ University Of Indonesia • Machine Learning Engineer • AI Dev
     🤖 Robotics • LLMs • Vision Models
-    📊 RAG • MCP • C++, Python, Rust Dev • ROS2 ftw • Linux Enjoyer
+    📊 C++, Python, ROS2 • Linux
 </pre>
 <br><br>
 <img src="https://media1.tenor.com/m/KVQ29uyAfHkAAAAC/the-fool-klein-moretti.gif" height="25%" />
 <br><br><br>
-    
+
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/ryan-adidaru-18a395277/)
 [![](https://img.shields.io/badge/devpost-003e54)](https://devpost.com/coolcmyk?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 [![](https://img.shields.io/badge/portfolio-6cb2eb)](https://coolcmyk.github.io)
