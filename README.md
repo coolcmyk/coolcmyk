@@ -17,7 +17,7 @@
 <br><br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/ryan-adidaru-18a395277/)
-[![](https://img.shields.io/badge/devpost-003e54)](https://devpost.com/coolcmyk?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+[![](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/excaliburx/)
 [![](https://img.shields.io/badge/web-6cb2eb)](ky0.dev)
 [![](https://img.shields.io/badge/t4rotClub-6e5494)](https://github.com/t4rotClub)
 [![](https://img.shields.io/badge/cv-8A2BE2)](CV_new.pdf)
