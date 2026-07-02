@@ -1,4 +1,4 @@
 <span style="font-family: 'JetBrains Mono';">python and rust enjoyer</span>
 
-here's the list of my open-source project
+open-source projects:
 - https://github.com/kioku-org/kioku
